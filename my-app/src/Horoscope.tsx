@@ -4,6 +4,10 @@ import TextBox from './TextBox';
 // @ts-ignore
 import { AwesomeButton } from "react-awesome-button";
 import axios from "axios";
+import './App.css';
+import "react-awesome-button/dist/styles.css";
+
+
 
 
 
